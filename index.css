@@ -7,4 +7,12 @@ body{
 svg{
     fill:darkgray;
     stroke-width: 10;
+    margin: auto; 
+    display: block;
+}
+
+.cityCircle{
+    stroke: black;
+    fill: slategrey;
+    stroke-width: 1;
 }
