@@ -9,10 +9,12 @@ svg{
     stroke-width: 10;
     margin: auto; 
     display: block;
+    padding-right: 20%;
 }
 
-.cityCircle{
+.cityLocation{
     stroke: black;
-    fill: slategrey;
+    fill: white;
     stroke-width: 1;
+    cursor: pointer;
 }
